@@ -7,7 +7,7 @@ The Gemini Clone is a meticulously crafted UI clone, designed to mirror the aest
 
 ## 🎥 Demo
 
-Check out the live demo here: [Linkedin](https://www.linkedin.com/in/wahidanon/)
+Check out the live demo here: [Linkedin]([https://www.linkedin.com/in/wahidanon/](https://www.linkedin.com/posts/wahidanon_wqsoftwares-mernstack-webdevelopment-activity-7233819212656373762-p_0m?utm_source=share&utm_medium=member_desktop)
 
 
 ## ✨ Features
