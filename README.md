@@ -10,7 +10,6 @@ The Gemini Clone is a meticulously crafted UI clone, designed to mirror the aest
 Check out the live demo here: [Linkedin](https://www.linkedin.com/in/wahidanon/)
 
 
-
 ## ✨ Features
 
 - **Responsive Design**: Works seamlessly on mobile, tablet, and desktop.
@@ -35,26 +34,48 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/wahid3150/Gemini-Clone.git
-2. **Navigate into the project directory:**
-   cd Gemini-Clone
-3. **Install the dependencies:**
-   npm install
-4. **Run the project:**
-   npm start
-This will start the development server and open the project in your default web browser.
+   ```
 
-##📜 Usage
+2. **Navigate into the project directory:**
+   ```bash
+   cd Gemini-Clone
+   ```
+
+3. **Install the dependencies:**
+   ```bash
+   npm install
+   ```
+
+4. **Run the project:**
+   ```bash
+   npm start
+   ```
+
+## 📜 Usage
+
 After running the project, you can explore the UI by navigating through the various components and features. The application is designed to replicate the Gemini platform, providing a similar user experience.
 
-##🤝 Contributing
+## 🤝 Contributing
+
 Contributions are welcome! Here’s how you can help:
-1. Fork the repository
-2. Create a new branch: 'git checkout -b feature/YourFeature'
-3. Commit your changes: 'git commit -m 'Add YourFeature''
-4. Push to the branch: 'git push origin feature/YourFeature'
-5. Open a pull request
 
-##📞 Contact
+1. **Fork the repository.**
+2. **Create a new branch:**
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. **Commit your changes:**
+   ```bash
+   git commit -m 'Add YourFeature'
+   ```
+4. **Push to the branch:**
+   ```bash
+   git push origin feature/YourFeature
+   ```
+5. **Open a pull request.**
+
+## 📞 Contact
+
 If you have any questions or suggestions, feel free to reach out:
-#. [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wahid%20Ali-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahidanon/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wahid%20Ali-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahidanon/)
