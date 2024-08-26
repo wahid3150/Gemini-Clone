@@ -6,8 +6,7 @@ Welcome to the **Gemini Clone** project! This repository contains the code for a
 The Gemini Clone is a meticulously crafted UI clone, designed to mirror the aesthetic and functionality of the original Gemini platform. This project serves as a demonstration of advanced frontend development skills using HTML, CSS, JavaScript and React.
 
 ## 🎥 Demo
-
-Check out the live demo here: [Linkedin]([https://www.linkedin.com/in/wahidanon/](https://www.linkedin.com/posts/wahidanon_wqsoftwares-mernstack-webdevelopment-activity-7233819212656373762-p_0m?utm_source=share&utm_medium=member_desktop)
+Check out the live demo here: [LinkedIn Post](https://www.linkedin.com/posts/wahidanon_wqsoftwares-mernstack-webdevelopment-activity-7233819212656373762-p_0m?utm_source=share&utm_medium=member_desktop)
 
 
 ## ✨ Features
